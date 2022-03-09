@@ -1,0 +1,10 @@
+Amelia
+18
+Eevee;Scut;Pelerina;Bagheta Magica;
+Psyduck;Brad de Craciun;Vitamine;Sabiuta;
+Squirtle;Sabiuta;Scut;Vitamine;
+Olivia
+16
+Squirtle;Sabiuta;Brad de Craciun;Pelerina;
+Psyduck;Pelerina;Scut;Vitamine;
+Meowth;Scut;Brad de Craciun;Bagheta Magica;

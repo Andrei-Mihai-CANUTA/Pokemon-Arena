@@ -1,0 +1,10 @@
+Emma
+14
+Jigglypuff;Brad de Craciun;Vesta;Pelerina;
+Pikachu;Bagheta Magica;Pelerina;Scut;
+Meowth;Bagheta Magica;Scut;Brad de Craciun;
+Elijah
+11
+Snorlax;Sabiuta;Brad de Craciun;Bagheta Magica;
+Charmander;Scut;Pelerina;Sabiuta;
+Bulbasaur;Sabiuta;Brad de Craciun;Pelerina;

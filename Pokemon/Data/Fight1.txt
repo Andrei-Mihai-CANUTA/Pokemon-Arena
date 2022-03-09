@@ -1,0 +1,10 @@
+Oliver
+11
+Jigglypuff;Brad de Craciun;Scut;Pelerina;
+Bulbasaur;Pelerina;Vesta;Brad de Craciun;
+Vulpix;Bagheta Magica;Brad de Craciun;Sabiuta;
+Emma
+19
+Bulbasaur;Vesta;Pelerina;Bagheta Magica;
+Squirtle;Bagheta Magica;Sabiuta;Brad de Craciun;
+Charmander;Vesta;Scut;Vitamine;

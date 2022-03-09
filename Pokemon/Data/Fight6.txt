@@ -1,0 +1,10 @@
+Elijah
+20
+Charmander;Vesta;Vitamine;Brad de Craciun;
+Vulpix;Vesta;Sabiuta;Vitamine;
+Snorlax;Sabiuta;Vitamine;Vesta;
+Mia
+17
+Bulbasaur;Vitamine;Scut;Bagheta Magica;
+Vulpix;Scut;Pelerina;Sabiuta;
+Eevee;Brad de Craciun;Sabiuta;Scut;

@@ -1,0 +1,10 @@
+Henry
+12
+Charmander;Bagheta Magica;Sabiuta;Scut;
+Vulpix;Vesta;Vitamine;Bagheta Magica;
+Snorlax;Sabiuta;Vitamine;Brad de Craciun;
+Amelia
+15
+Jigglypuff;Bagheta Magica;Vitamine;Scut;
+Charmander;Pelerina;Vesta;Bagheta Magica;
+Snorlax;Vitamine;Pelerina;Brad de Craciun;

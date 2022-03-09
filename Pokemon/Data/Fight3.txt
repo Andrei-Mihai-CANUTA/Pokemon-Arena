@@ -1,0 +1,10 @@
+William
+16
+Pikachu;Brad de Craciun;Vitamine;Vesta;
+Charmander;Sabiuta;Brad de Craciun;Vitamine;
+Psyduck;Bagheta Magica;Vesta;Pelerina;
+Elijah
+19
+Psyduck;Pelerina;Brad de Craciun;Vesta;
+Meowth;Vitamine;Pelerina;Brad de Craciun;
+Pikachu;Brad de Craciun;Vesta;Bagheta Magica;

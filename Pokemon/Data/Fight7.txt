@@ -1,0 +1,10 @@
+Henry
+20
+Eevee;Scut;Sabiuta;Vesta;
+Pikachu;Brad de Craciun;Bagheta Magica;Sabiuta;
+Snorlax;Scut;Sabiuta;Vitamine;
+Amelia
+20
+Snorlax;Pelerina;Vesta;Sabiuta;
+Vulpix;Pelerina;Sabiuta;Brad de Craciun;
+Pikachu;Bagheta Magica;Scut;Sabiuta;

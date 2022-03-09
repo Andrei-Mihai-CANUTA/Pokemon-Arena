@@ -1,0 +1,10 @@
+Noah
+20
+Meowth;Vesta;Pelerina;Brad de Craciun;
+Squirtle;Bagheta Magica;Vitamine;Brad de Craciun;
+Eevee;Brad de Craciun;Pelerina;Sabiuta;
+Mia
+18
+Charmander;Scut;Vesta;Vitamine;
+Snorlax;Sabiuta;Brad de Craciun;Pelerina;
+Vulpix;Brad de Craciun;Pelerina;Vitamine;

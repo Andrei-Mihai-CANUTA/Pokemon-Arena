@@ -1,0 +1,10 @@
+Sophia
+16
+Meowth;Brad de Craciun;Vitamine;Pelerina;
+Eevee;Bagheta Magica;Brad de Craciun;Pelerina;
+Charmander;Pelerina;Vesta;Vitamine;
+Noah
+20
+Jigglypuff;Vesta;Vitamine;Scut;
+Snorlax;Vitamine;Sabiuta;Pelerina;
+Eevee;Vitamine;Vesta;Bagheta Magica;

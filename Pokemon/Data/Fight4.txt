@@ -1,0 +1,10 @@
+Lucas
+11
+Snorlax;Sabiuta;Bagheta Magica;Brad de Craciun;
+Eevee;Bagheta Magica;Sabiuta;Vitamine;
+Meowth;Bagheta Magica;Vesta;Scut;
+Lucas
+13
+Charmander;Brad de Craciun;Pelerina;Bagheta Magica;
+Jigglypuff;Scut;Sabiuta;Vitamine;
+Eevee;Bagheta Magica;Pelerina;Scut;
